@@ -1,21 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Programación%20II%20—%20TP2&fontAlign=50&color=0:00C6FF,100:8A2BE2&fontColor=ffffff&animation=twinkling&fontSize=45" alt="Banner"/>
-
-<p>
-  <img alt="Lenguaje" src="https://img.shields.io/badge/Lenguaje-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Paradigma" src="https://img.shields.io/badge/Paradigma-Estructurada-00C6FF?style=for-the-badge">
-  <img alt="Estado" src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge">
-  <img alt="JDK" src="https://img.shields.io/badge/JDK-8%2B%20%7C%2017%2B-8A2BE2?style=for-the-badge">
-</p>
-
-<p>
-  <em>TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN (A DISTANCIA)</em>
-</p>
-
-</div>
-
----
 
 ## ✨ Descripción general
 
@@ -328,7 +311,7 @@ Ajusta los comandos según la estructura real del proyecto (paquetes, carpetas s
 
 ## 👤 Autor
 
-- Hugo Albertini (@HugoAlbertini)
+- Hugo Albertini 
 
 <div align="center">
   
