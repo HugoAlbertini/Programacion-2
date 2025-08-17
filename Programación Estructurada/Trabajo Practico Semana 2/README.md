@@ -294,21 +294,6 @@ Conceptos clave:
 
 ---
 
-## 🚀 Cómo ejecutar
-
-- Requisitos: JDK 8+ (recomendado JDK 17 o superior).  
-- Compilación (ejemplo en consola, dentro del directorio del código fuente):
-  ```bash
-  javac *.java
-  ```
-- Ejecución (ejemplo, suponiendo una clase con método main llamado Main):
-  ```bash
-  java Main
-  ```
-Ajusta los comandos según la estructura real del proyecto (paquetes, carpetas src/, etc.).
-
----
-
 ## 👤 Autor
 
 - Hugo Albertini 
