@@ -52,31 +52,78 @@ Cinco ejercicios para aplicar los conceptos de programación orientada a objetos
 
 ### 🎓 Registro de Estudiantes
 
-<details>
-  <summary><strong>Crear una clase Estudiante con atributos y métodos</strong></summary>
+**Crear una clase Estudiante con atributos y métodos**
 
-```java
-class Estudiante {
-    // Atributos
-    String nombre;
-    String apellido;
-    String curso;
-    double calificacion;
-    
-    // Métodos
-    void mostrarInfo() {
-        System.out.println("Estudiante: " + nombre + " " + apellido);
-        System.out.println("Curso: " + curso);
-        System.out.println("Calificación: " + calificacion);
-    }
-    
-    void subirCalificacion(double puntos) {
-        calificacion += puntos;
-        System.out.println("Calificación aumentada en " + puntos + " puntos");
-    }
-    
-    void bajarCalificacion(double puntos) {
-        calificacion -= puntos;
-        System.out.println("Calificación reducida en " + puntos + " puntos");
-    }
-}
+- **Atributos**: nombre, apellido, curso, calificación
+- **Métodos requeridos**: mostrarInfo(), subirCalificacion(puntos), bajarCalificacion(puntos)
+
+**Tarea:** Instanciar a un estudiante, mostrar su información, aumentar y disminuir calificaciones.
+
+### 🐾 Registro de Mascotas
+
+**Crear una clase Mascota con atributos y métodos**
+
+- **Atributos**: nombre, especie, edad
+- **Métodos requeridos**: mostrarInfo(), cumplirAnios()
+
+**Tarea:** Crear una mascota, mostrar su información, simular el paso del tiempo y verificar los cambios.
+
+### 📖 Encapsulamiento con la Clase Libro
+
+**Crear una clase Libro con atributos privados**
+
+- **Atributos privados**: titulo, autor, añoPublicacion
+- **Métodos requeridos**: Getters para todos los atributos. Setter con validación para añoPublicacion.
+
+**Tarea:** Crear un libro, intentar modificar el año con un valor inválido y luego con uno válido, mostrar la información final.
+
+### 🐔 Gestión de Gallinas en Granja Digital
+
+**Crear una clase Gallina con atributos y métodos**
+
+- **Atributos**: idGallina, edad, huevosPuestos
+- **Métodos requeridos**: ponerHuevo(), envejecer(), mostrarEstado()
+
+**Tarea:** Crear dos gallinas, simular sus acciones (envejecer y poner huevos), y mostrar su estado.
+
+### 🚀 Simulación de Nave Espacial
+
+**Crear una clase NaveEspacial con atributos y métodos**
+
+- **Atributos**: nombre, combustible
+- **Métodos requeridos**: despegar(), avanzar(distancia), recargarCombustible(cantidad), mostrarEstado()
+- **Reglas**: Validar que haya suficiente combustible antes de avanzar y evitar que se supere el límite al recargar.
+
+**Tarea:** Crear una nave con 50 unidades de combustible, intentar avanzar sin recargar, luego recargar y avanzar correctamente. Mostrar el estado al final.
+
+---
+
+## ✅ Conclusiones Esperadas
+
+- ✔️ Comprender la diferencia entre clases y objetos.
+- ✔️ Aplicar principios de encapsulamiento para proteger los datos.
+- ✔️ Usar getters y setters para gestionar atributos privados.
+- ✔️ Implementar métodos que definen comportamientos de los objetos.
+- ✔️ Manejar el estado y la identidad de los objetos correctamente.
+- ✔️ Aplicar buenas prácticas en la estructuración del código orientado a objetos.
+- ✔️ Reforzar el pensamiento modular y la reutilización del código en Java.
+
+---
+
+## 🚀 Cómo ejecutar
+
+1. Clone este repositorio: `git clone [URL_DEL_REPOSITORIO]`
+2. Compile los archivos Java: `javac *.java`
+3. Ejecute cada ejercicio individualmente: `java Main1`, `java Main2`, etc.
+
+---
+
+## 👤 Autor
+
+- Hugo Albertini
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Programación%20Orientada%20a%20Objetos-💻-00C6FF?style=for-the-badge">
+
+</div>
