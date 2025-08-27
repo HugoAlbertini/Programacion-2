@@ -3,7 +3,6 @@
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
@@ -110,13 +109,6 @@ Cinco ejercicios para aplicar los conceptos de programación orientada a objetos
 
 ---
 
-## 🚀 Cómo ejecutar
-
-1. Clone este repositorio: `git clone [URL_DEL_REPOSITORIO]`
-2. Compile los archivos Java: `javac *.java`
-3. Ejecute cada ejercicio individualmente: `java Main1`, `java Main2`, etc.
-
----
 
 ## 👤 Autor
 
